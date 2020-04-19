@@ -1,2 +1,1 @@
-# Descripción
-Demo hola mundo JPA
+Java - JPA Hello World
